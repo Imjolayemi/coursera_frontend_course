@@ -7,7 +7,7 @@ This repository contains my notes, coding assignments, and projects from the **H
 
 My goal is to document my learning journey, track my progress through the modules, and showcase the practical applications built along the way.
 
-**Course Link:** [\[Insert Link to Coursera Course\]](https://coursera.org/share/8466c90ab25367679b77db4a3a64d237)
+**Course Link:** [\[Course link\]](https://coursera.org/share/8466c90ab25367679b77db4a3a64d237)
 
 ---
 
